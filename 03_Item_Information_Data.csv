@@ -1,0 +1,135 @@
+﻿Shelf ID,Item ID,Name,Origin,Location,Weight (g),Price,NSX,HSD,Marketing strategy,Discount ,Rate
+0,0,Bánh Oreo,Vietnam,Cao,120,"17,500",14/11/2023,17/10/2024,FALSE,10,4
+0,1,Bánh Chocopie,Vietnam,Cao,396,"48,000",07/10/2023,16/09/2024,FALSE,0,3
+0,2,Kẹo cao su Cool Air Fresh,Vietnam,Trung bình,40,"40,000",02/06/2024,02/06/2026,FALSE,0,3
+0,3,Bánh mì chà bông Kinh Đô,Vietnam,Trung bình,80,"13,400",02/05/2024,02/05/2026,FALSE,0,3
+0,4,Bánh trứng Custard,ThÃ¡i Lan,Trung bình,46,"17,000",30/10/2023,16/04/2024,TRUE,10,4
+0,5,Hạt hướng dương Chacheer,Vietnam,Trung bình,130,"25,000",05/08/2024,24/11/2024,FALSE,5,3
+0,6,Bim bim Oishi,Vietnam,Trung bình,70,"12,000",25/06/2024,08/05/2025,FALSE,5,5
+0,7,Snack khoai tây Lays,Vietnam,Trung bình,90,"22,000",13/04/2024,25/09/2024,FALSE,10,3
+0,8,Bánh gạo Richi,Vietnam,Cao,168,"39,000",03/10/2023,11/01/2024,FALSE,0,4
+0,9,Socola trứng Kinder,Ã,Thấp,20,"28,500",01/11/2023,30/11/2024,FALSE,10,4
+0,10,Kẹo dẻo Alphelibe,Vietnam,Thấp,73.5,"15,300",22/08/2023,22/08/2024,FALSE,15,3
+0,11,Thạch rau câu Đức Hạnh,Vietnam,Thấp,320,"30,500",31/12/2023,30/09/2024,FALSE,0,4
+0,12,Kẹo Haribo marshmallows,Vietnam,Thấp,70,"28,500",30/10/2023,06/07/2024,FALSE,0,3
+1,0,Dầu gội XMen,Vietnam,Thấp,180,"70,000",04/08/2024,10/09/2024,FALSE,5,5
+1,1,Dầu gội Romano,Vietnam,Thấp,380,"122,000",05/12/2023,25/03/2024,FALSE,25,4
+1,2,Dầu gội Dove,Vietnam,Thấp,621,"166,000",23/02/2024,09/05/2024,TRUE,10,3
+1,3,Dầu gội Sunsilk,Vietnam,Thấp,631,"145,000",14/09/2023,28/03/2024,FALSE,10,4
+1,4,Sữa rửa mặt Oxy,Vietnam,Trung bình,100,"138,000",14/12/2023,26/10/2024,FALSE,10,4
+1,5,Sữa rửa mặt Hada Labo,Vietnam,Trung bình,80,"83,000",14/04/2024,13/12/2024,FALSE,0,4
+1,6,Sữa rửa mặt Simple,Vietnam,Trung bình,150,"132,000",11/08/2023,27/01/2024,FALSE,0,5
+1,7,Dao cạo râu Gillette,Thailand,Thấp,,"40,000",19/01/2024,03/06/2024,FALSE,0,4
+1,8,Tăm bông ngoáy tai Famapro,Vietnam,Thấp,,"17,000",25/08/2023,23/03/2024,FALSE,11,4
+1,9,Bàn chải Colgate,Vietnam,Thấp,,"79,500",16/07/2024,23/03/2024,FALSE,5,5
+1,10,Khăn tắm Shine,Vietnam,Trung bình,,"115,000",11/07/2024,11/01/2025,TRUE,20,5
+1,11,Khăn mặt Shine,Vietnam,Trung bình,,"23,000",25/09/2023,20/02/2024,TRUE,20,5
+1,12,Bông tẩy trang Kokimi,Vietnam,Thấp,,"54,000",11/03/2024,25/11/2024,FALSE,0,4
+1,13,Tã dán Merries size NB 76 miếng (dưới 5kg),Nháº­t Báº£n,Cao,,"385,000",11/07/2024,16/03/2025,FALSE,0,3
+1,14,Tã dán sơ sinh Bobby siêu mỏng Newborn 70 miếng (cho bé dưới 5kg),Nháº­t Báº£n,Cao,,"215,000",23/04/2024,11/08/2024,FALSE,0,3
+1,15,Tã dán sơ sinh Goo.n Premium Newborn 70 miếng,Nháº­t Báº£n,Cao,,"300,000",19/08/2023,10/03/2024,TRUE,10,5
+1,16,Băng ban ngày Diana,Nháº­t Báº£n,Cao,,"21,000",07/09/2023,17/08/2024,FALSE,0,4
+1,17,Băng ban đêm Diana Super Night,Nháº­t Báº£n,Cao,,"18,500",18/03/2024,23/02/2025,FALSE,0,3
+2,0,Lốc 4 hộp sữa tươi Vinamilk 100% ít đường,Vietnam,Trung bình,180,"32,500",25/08/2023,05/12/2023,FALSE,0,3
+2,1,Lốc 4 hộp sữa tươi ít đường TH true MILK,Vietnam,Trung bình,180,"40,000",02/07/2024,12/09/2024,FALSE,0,3
+2,2,4 hộp sữa lúa mạch Milo 180ml,Vietnam,Trung bình,180,"30,000",16/08/2023,12/01/2024,FALSE,0,5
+2,3,Sữa bột Ensure Gold lúa mạch,Hoa Ká»³,Thấp,850,"905,000",24/04/2024,02/08/2024,FALSE,0,3
+2,4,Sữa bột Anele,New Zealand,Thấp,800,"410,000",29/01/2024,13/08/2024,FALSE,10,5
+2,5,Sữa bột Meiji Mama,Nháº­t Báº£n,Thấp,350,"235,000",06/07/2024,10/05/2025,FALSE,0,3
+2,6,Sữa bột Anmum Materna,Malaysia,Thấp,400,"245,000",20/09/2023,21/12/2023,FALSE,0,4
+2,7,Sữa bột Milo,Ãšc,Thấp,330,"60,000",02/08/2024,12/12/2024,TRUE,15,3
+2,8,Sữa ông thọ,Vietnam,Thấp,380,"31,500",03/06/2024,29/04/2025,FALSE,0,3
+3,0,Đậu xanh,Vietnam,Thấp,150,"12,000",09/01/2024,19/05/2024,FALSE,0,3
+3,1,Đậu đỏ,Vietnam,Thấp,150,"14,000",19/09/2023,02/11/2023,FALSE,0,4
+3,2,Gạo ST25 Neptune,Vietnam,Thấp,5000,"139,000",02/08/2024,05/09/2024,TRUE,10,4
+3,3,Mỳ Hảo Hảo,Vietnam,Trung bình,75,"4,400",18/12/2023,16/02/2024,FALSE,0,5
+3,4,Mỳ Cung Đình,Vietnam,Trung bình,80,"8,000",06/06/2024,08/09/2024,FALSE,0,4
+3,5,Mỳ Omachi,Vietnam,Trung bình,80,"88,000",22/12/2023,12/05/2024,FALSE,0,4
+3,6,Mỳ trứng Safoco,Vietnam,Trung bình,400,"27,000",24/08/2023,20/07/2024,FALSE,0,5
+3,7,Phở vifon,Vietnam,Trung bình,65,"9,000",01/08/2024,11/07/2025,FALSE,0,4
+3,8,Nui Safoco,Vietnam,Trung bình,500,"35,000",19/10/2023,14/05/2024,FALSE,5,3
+3,9,Miến dong Miến vương,Vietnam,Trung bình,500,"54,000",14/08/2023,05/02/2024,FALSE,0,5
+3,10,Bánh đa Vifon,Vietnam,Trung bình,300,"30,000",07/02/2024,03/06/2024,FALSE,0,3
+3,11,Phở khô Chinsu,Vietnam,Trung bình,500,"35,000",26/07/2024,18/11/2024,FALSE,0,4
+3,12,Phồng tôm Bích chi,Vietnam,Thấp,100,"6,400",15/02/2024,16/08/2024,FALSE,0,4
+3,13,Ngũ cốc VinaCafe,Vietnam,Cao,500,"67,500",05/08/2024,16/06/2025,FALSE,0,5
+3,14,Khô bò Hải Châu,Vietnam,Cao,24,"31,000",16/10/2023,10/09/2024,FALSE,0,4
+3,15,Khô gà Thảo Nguyên Phát,Vietnam,Cao,100,"52,500",15/11/2023,06/04/2024,FALSE,0,4
+3,16,Strongbow dâu đen,Vietnam,Trung bình,330,"19,200",15/11/2023,06/04/2024,TRUE,5,5
+3,17,Bia 333,Vietnam,Trung bình,330,"14,500",15/11/2023,31/08/2024,FALSE,0,5
+3,18,Bia Sài Gòn Special,Vietnam,Trung bình,330,"16,000",15/11/2023,01/09/2024,FALSE,20,3
+3,19,Vodka Hà Nội,Vietnam,Trung bình,700,"120,000",15/11/2023,02/09/2024,FALSE,30,5
+3,20,Vodka Cá sấu,Vietnam,Trung bình,300,"70,000",15/11/2023,03/09/2024,FALSE,20,3
+3,21,Vang đỏ Đà lạt,Vietnam,Trung bình,750,"104,000",16/11/2023,04/09/2024,FALSE,10,3
+3,22,Coca Cola,Vietnam,Trung bình,600,"10,300",20/02/2024,24/10/2024,FALSE,15,3
+3,23,Fanta,Vietnam,Trung bình,600,"10,300",20/02/2024,24/10/2024,FALSE,20,3
+3,24,Sprite,Vietnam,Trung bình,600,"10,300",20/02/2024,24/10/2024,FALSE,10,3
+4,0,Nước mắm Chinsu,Vietnam,Cao,720,"52,000",20/02/2024,24/10/2024,FALSE,5,5
+4,1,Nước mắm cá cơm Thuận Phát,Vietnam,Cao,610,"59,000",29/09/2023,28/03/2024,TRUE,10,3
+4,2,Nước mắm hạnh phúc,Vietnam,Cao,500,"145,000",31/10/2023,31/12/2023,FALSE,20,3
+4,3,Nước mắm Nam ngư,Vietnam,Cao,900,"56,500",22/10/2023,06/09/2024,FALSE,25,3
+4,4,Dầu ăn Simply,Vietnam,Cao,1000,"79,000",18/07/2024,29/06/2025,FALSE,10,5
+4,5,Dầu ăn Tường An,Vietnam,Cao,1000,"64,500",23/08/2023,06/05/2024,FALSE,5,4
+4,6,Dầu ăn Meizan,Vietnam,Cao,1000,"47,000",09/04/2024,20/08/2024,FALSE,0,3
+4,7,Bột canh Vifon,Vietnam,Thấp,450,"13,300",12/12/2023,13/02/2024,FALSE,0,4
+4,8,Mì chính Miwon,HÃ n Quá»‘c,Thấp,454,"34,000",14/09/2023,13/07/2024,FALSE,5,3
+4,9,Mì chính Ajinomoto,Nháº­t Báº£n,Thấp,454,"36,000",24/08/2023,24/04/2024,FALSE,10,4
+4,10,Đường kính Toàn Phát,Vietnam,Thấp,500,"13,500",09/12/2023,07/07/2024,FALSE,22,4
+4,11,Đường phèn Biên Hòa,Vietnam,Thấp,1000,"35,500",09/10/2023,17/03/2024,FALSE,10,5
+4,12,Xì dầu Chinsu,Vietnam,Trung bình,330,"19,000",13/03/2024,14/08/2024,FALSE,0,3
+4,13,Xì dầu Tam Thái tử,Vietnam,Trung bình,500,"8,800",01/11/2023,19/05/2024,FALSE,0,5
+4,14,Tương ớt Chinsu,Vietnam,Trung bình,250,"16,600",23/03/2024,09/01/2025,FALSE,0,4
+4,15,Tương ớt Cholimex,Vietnam,Trung bình,270,"11,800",26/01/2024,01/01/2025,FALSE,0,3
+4,16,Dầu hào Maggi,Vietnam,Trung bình,350,"28,500",26/08/2023,30/12/2023,FALSE,10,3
+4,17,Nước mắm cho bé Thuyền xưa,Vietnam,Trung bình,65,"28,000",17/03/2024,20/12/2024,FALSE,10,4
+4,18,Nước mắm cho bé Barona,Vietnam,Trung bình,50,"27,500",07/12/2023,05/04/2024,FALSE,15,4
+5,0,Nồi cơm điện Sunhouse,Vietnam,Cao,1200,"590,000",,,FALSE,30,3
+5,1,Nồi cơm điện Cuckoo,HÃ n Quá»‘c,Cao,1080,"1,350,000",,,TRUE,30,4
+5,2,Nồi cơm điện Kangaroo,Vietnam,Cao,1200,"569,000",,,FALSE,10,5
+5,3,Nồi cơm điện Lock&Lock,HÃ n Quá»‘c,Cao,1200,"1,600,000",,,TRUE,30,3
+5,4,Chảo Sunhouse,Vietnam,Trung bình,30,"318,000",,,FALSE,20,4
+5,5,Chảo Lock&Lock,Vietnam,Trung bình,28,"475,000",,,TRUE,30,4
+5,6,Bếp điện từ Sunhouse,Vietnam,Cao,2000,"849,000",,,FALSE,15,4
+5,7,Bếp điện từ Lock&Lock,Vietnam,Cao,1850,"1,500,000",,,TRUE,20,3
+5,8,Bếp nướng Sunhouse,Vietnam,Cao,1500,"399,000",,,FALSE,10,3
+5,9,Bếp nướng Lock&Lock,Vietnam,Cao,1300,"845,000",,,TRUE,30,3
+5,10,Máy xay sinh tố Comet,Vietnam,Trung bình,1500,"639,000",,,FALSE,20,4
+5,11,Máy xay sinh tố Sunhouse,Vietnam,Trung bình,1500,"700,000",,,FALSE,25,4
+5,12,Máy xay sinh tố Lock&Lock,Trung Quá»‘c,Trung bình,600,"500,000",,,TRUE,15,4
+5,13,Đèn bàn Điện Quang,Vietnam,Thấp,3,"550,000",,,FALSE,15,3
+5,14,Phích cắm điện Điện Quang,Vietnam,Thấp,3200,"270,000",,,FALSE,10,3
+5,15,Ổ cắm điện Lioa,Vietnam,Thấp,2200,"265,000",,,FALSE,5,3
+6,0,Gấu bông Miyu,Vietnam,Thấp,,"170,000",,,FALSE,0,4
+6,1,Siêu nhân Marvel,Vietnam,Thấp,,"63,000",,,FALSE,0,4
+6,2,Sách cho trẻ sơ sinh đến 6 tháng tuổi,Vietnam,Trung bình,8,"150,000",,,FALSE,0,4
+6,3,Sách cho trẻ từ 1-2 tuổi,Vietnam,Trung bình,4,"152,000",,,FALSE,0,4
+6,4,Sách cho trẻ từ 2-3 tuổi,Vietnam,Trung bình,8,"42,000",,,FALSE,0,3
+6,5,Sách cho trẻ từ 4-5 tuổi,Vietnam,Trung bình,8,"28,000",,,FALSE,0,4
+6,6,Sách Chào con Ba mẹ đã sẵn sàng,Vietnam,Trung bình,,"80,000",,,FALSE,0,3
+6,7,Sách - Nuôi Con không phải là cuộc chiến Easy,Vietnam,Trung bình,,"205,000",,,FALSE,0,5
+6,8,Sách Cẩm Nang Mang Thai & Sinh con,Vietnam,Trung bình,,"85,000",,,FALSE,0,4
+6,9,Truyện tranh Conan,Vietnam,Trung bình,,"24,000",,,FALSE,0,4
+6,10,Truyện Doraemon,Vietnam,Trung bình,,"22,000",,,FALSE,0,4
+6,11,Sách Nhà Giả Kim,Vietnam,Trung bình,,"70,000",,,FALSE,0,5
+6,12,Sách Đắc Nhân Tâm,Vietnam,Trung bình,,"70,000",,,FALSE,0,4
+6,13,Sách Thép Đã Tôi Thế Đấy,Vietnam,Trung bình,,"130,000",,,FALSE,0,3
+6,14,Sách Thám tử Sherlock Holmes,Vietnam,Trung bình,3,"300,000",,,FALSE,0,3
+6,15,Sách Bên Nhau Trọn Đời,Vietnam,Trung bình,,"90,000",,,FALSE,0,3
+6,16,Sách Đạo Tình,Vietnam,Trung bình,2,"165,000",,,FALSE,0,3
+6,17,Sách Công Tắc Tình Yêu,Vietnam,Trung bình,,"60,000",,,FALSE,0,3
+7,0,Kem tràng tiền,Vietnam,Trung bình,10,"45,700",21/07/2024,14/07/2025,TRUE,5,5
+7,1,Kem vinamilk,Vietnam,Trung bình,,"175,000",16/12/2023,24/05/2024,FALSE,0,5
+7,2,Sữa chua Vinamilk,Vietnam,Trung bình,100,"25,400",22/06/2024,06/05/2025,FALSE,0,3
+7,3,Sữa chua TH,Vietnam,Trung bình,100,"29,000",26/08/2023,21/06/2024,FALSE,0,3
+7,4,Sữa chua Mộc Châu,Vietnam,Trung bình,100,"25,000",10/07/2024,28/01/2025,FALSE,0,3
+7,5,Sữa chua Ba vì,Vietnam,Trung bình,100,"20,000",18/06/2024,29/05/2025,FALSE,0,4
+7,6,Sữa chua uống Yakult,Vietnam,Trung bình,65,"26,000",26/03/2024,18/09/2024,FALSE,0,3
+7,7,Sữa chua uống Probi,Vietnam,Trung bình,130,"36,000",16/02/2024,28/08/2024,FALSE,5,5
+7,8,Sữa chua Susu,Vietnam,Trung bình,80,"25,000",21/09/2023,30/11/2023,FALSE,0,3
+7,9,Bibigo Mandu,HÃ n Quá»‘c,Thấp,350,"30,500",09/06/2024,21/12/2024,FALSE,0,3
+7,10,Viên thả lẩu cầu tre,Vietnam,Thấp,300,"54,000",14/06/2024,17/07/2024,FALSE,0,5
+7,11,Pizza kitkool,Vietnam,Thấp,140,"33,000",16/04/2024,10/06/2024,FALSE,0,4
+7,12,Mỳ Ý SG Food,Vietnam,Thấp,250,"27,000",05/02/2024,03/09/2024,FALSE,0,4
+7,13,Thanh cua Akira,Nháº­t Báº£n,Thấp,200,"58,500",16/10/2023,19/12/2023,FALSE,0,4
+7,14,Nước lẩu Barona,Vietnam,Thấp,180,"32,000",02/12/2023,02/03/2024,FALSE,0,4
+7,15,Xúc xích CP,Vietnam,Thấp,450,"94,000",21/02/2024,23/05/2024,FALSE,0,4
